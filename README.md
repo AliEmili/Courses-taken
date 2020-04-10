@@ -1,7 +1,7 @@
 # Courses-taken
 <h5>Adobe Illustrator :</h5>
 <ul>
-  <li>faradars</li>
+  <li>Faradars</li>
 </ul>
   
 <h5>Algorithms :</h5>
@@ -19,12 +19,12 @@
   <li>Traversy Media</li>
 </ul>
 
-<h5>Axios</h5>
+<h5>Axios :</h5>
 <ul>
   <li>Traversy Media</li>
 </ul>
 
-<h5>API</h5>
+<h5>API :</h5>
 <ul>
   <li>FreeCodeCamp</li>
 </ul>
@@ -59,7 +59,7 @@
   <li>Maktabkhooneh: Irani</li>
 </ul>
 
-<h5>Express JS:</h5>
+<h5>Express JS :</h5>
 <ul>
   <li>Traversy Media</li>
 </ul>
@@ -110,7 +110,7 @@
   <li>Traversy Media</li>
 </ul>
 
-<h5>JSDoc</h5>
+<h5>JSDoc :</h5>
 <ul>
   <li>Traversy Media</li>
 </ul>
@@ -151,12 +151,12 @@
   <li>Traversy Media</li>
 </ul>
 
-<h5>React JS:</h5>
+<h5>React JS :</h5>
 <ul>
   <li>Traversy Media</li>
 </ul>
 
-<h5>React Native:</h5>
+<h5>React Native :</h5>
 <ul>
   <li>Traversy Media</li>
 </ul>
@@ -171,7 +171,7 @@
   <li>Traversy Media</li>
 </ul>
 
-<h5>Semantic UI</h5>
+<h5>Semantic UI CSS :</h5>
 <ul>
   <li>Traversy Media</li>
 </ul>
@@ -198,7 +198,7 @@
   <li>Jadi</li>
 </ul>
 
-<h5>Vue JS:</h5>
+<h5>Vue JS :</h5>
 <ul>
   <li>Traversy Media</li>
 </ul>
