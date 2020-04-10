@@ -1,1 +1,118 @@
 # Courses-taken
+<h5>Adobe Illustrator :</h5>
+<ul>
+  <li>faradars</li>
+</ul>
+  
+<h5>Algorithms :</h5>
+<ul>
+  <li>Heilton</li>
+</ul>
+
+<h5>Advanced Programming :</h5>
+<ul>
+  <li>Maktabkhooneh : Irani, Jafari Nejad, Khosravi</li>
+</ul>
+
+<h5>API</h5>
+<ul>
+  <li>FreeCodeCamp</li>
+</ul>
+
+<h5>Basic Programming :</h5>
+<ul>
+  <li>Maktabkhooneh : Irani</li>
+</ul>
+
+<h5>Bootstrap :</h5>
+<ul>
+  <li>Sourcebaran</li>
+</ul>
+
+<h5>CSS :</h5>
+<ul>
+  <li>Faradars</li>
+  <li>Lynda : James Williamson, Bill Weinman</li>
+  <li>Aparat : Rezaei</li>
+  <li>FreeCodeCamp</li>
+  <li>Traversy Media</li>
+</ul>
+
+<h5>DataBase :</h5>
+<ul>
+  <li>Maktabkhooneh: Irani</li>
+</ul>
+
+<h5>Git & Github :</h5>
+<ul>
+  <li>Traversy Media</li>
+</li>
+
+<h5>HTML :</h5>
+<ul>
+  <li>Faradars</li>
+  <li>Udemy : Beginner to expert, Advanced for web devs</li>
+  <li>FreeCodeCamp</li>
+  <li>Traversy Media</li>
+</ul>
+
+<h5>Linux :</h5>
+<ul>
+  <li>Jadi</li>
+</ul>
+
+<h5>Instagram Growth :</h5>
+<ul>
+  <li>Udemy</li>
+</ul>
+
+<h5>JavaScript :</h5>
+<ul>
+  <li>Faradars</li>
+  <li>Heilton</li>
+  <li>Lynda : Essential Training, for web devs</li>
+  <li>Traversy Media</li>
+</ul>
+
+<h5>Jquery :</h5>
+<ul>
+  <li>Traversy Media</li>
+</ul>
+
+<h5>Photoshop :</h5>
+<ul>
+  <li>Faradars</li>
+</ul>
+
+<h5>Python :</h5>
+<ul>
+  <li>Faradars</li>
+</ul>
+
+<h5>Regular Expressions :</h5>
+<ul>
+  <li>Jadi</li>
+</ul>
+
+<h5>SQL :</h5>
+<ul>
+  <li>Sourcebaran</li>
+  <li>Mosh</li>
+</ul>
+
+<h5>TMUX :</h5>
+<ul>
+  <li>Jadi</li>
+</ul>
+
+<h5>Web Scraping :</h5>
+<ul>
+  <li>Packt</li>
+  <li>Jadi</li>
+</ul>
+
+<h5>Web Programming :</h5>
+<ul>
+  <li>Maktabkhooneh : Saleh</li>
+</ul>
+
