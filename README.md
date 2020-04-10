@@ -14,6 +14,16 @@
   <li>Maktabkhooneh : Irani, Jafari Nejad, Khosravi</li>
 </ul>
 
+<h5>Angular JS:</h5>
+<ul>
+  <li>Traversy Media</li>
+</ul>
+
+<h5>Axios</h5>
+<ul>
+  <li>Traversy Media</li>
+</ul>
+
 <h5>API</h5>
 <ul>
   <li>FreeCodeCamp</li>
@@ -24,9 +34,15 @@
   <li>Maktabkhooneh : Irani</li>
 </ul>
 
-<h5>Bootstrap :</h5>
+<h5>Bootstrap CSS :</h5>
 <ul>
   <li>Sourcebaran</li>
+  <li>Traversy Media</li>
+</ul>
+
+<h5>Bulma :</h5>
+<ul>
+  <li>Traversy Media</li>
 </ul>
 
 <h5>CSS :</h5>
@@ -43,7 +59,22 @@
   <li>Maktabkhooneh: Irani</li>
 </ul>
 
+<h5>Express JS:</h5>
+<ul>
+  <li>Traversy Media</li>
+</ul>
+
+<h5>Foundation CSS :</h5>
+<ul>
+  <li>Traversy Media</li>
+</ul>
+
 <h5>Git & Github :</h5>
+<ul>
+  <li>Traversy Media</li>
+</ul>
+
+<h5>HTTP :</h5>
 <ul>
   <li>Traversy Media</li>
 </ul>
@@ -74,7 +105,37 @@
   <li>Traversy Media</li>
 </ul>
 
+<h5>Jest :</h5>
+<ul>
+  <li>Traversy Media</li>
+</ul>
+
+<h5>JSDoc</h5>
+<ul>
+  <li>Traversy Media</li>
+</ul>
+
 <h5>Jquery :</h5>
+<ul>
+  <li>Traversy Media</li>
+</ul>
+
+<h5>Materialize :</h5>
+<ul>
+  <li>Traversy Media</li>
+</ul>
+
+<h5>Node JS:</h5>
+<ul>
+  <li>Traversy Media</li>
+</ul>
+
+<h5>NPM :</h5>
+<ul>
+  <li>Traversy Media</li>
+</ul>
+
+<h5>Nuxt :</h5>
 <ul>
   <li>Traversy Media</li>
 </ul>
@@ -87,6 +148,17 @@
 <h5>Python :</h5>
 <ul>
   <li>Faradars</li>
+  <li>Traversy Media</li>
+</ul>
+
+<h5>React JS:</h5>
+<ul>
+  <li>Traversy Media</li>
+</ul>
+
+<h5>React Native:</h5>
+<ul>
+  <li>Traversy Media</li>
 </ul>
 
 <h5>Regular Expressions :</h5>
@@ -94,15 +166,51 @@
   <li>Jadi</li>
 </ul>
 
+<h5>Sass :</h5>
+<ul>
+  <li>Traversy Media</li>
+</ul>
+
+<h5>Semantic UI</h5>
+<ul>
+  <li>Traversy Media</li>
+</ul>
+
+<h5>Skeleton CSS :</h5>
+<ul>
+  <li>Traversy Media</li>
+</ul>
+
 <h5>SQL :</h5>
 <ul>
   <li>Sourcebaran</li>
   <li>Mosh</li>
+  <li>Traversy Media</li>
+</ul>
+
+<h5>SSH :</h5>
+<ul>
+  <li>Traversy Media</li>
 </ul>
 
 <h5>TMUX :</h5>
 <ul>
   <li>Jadi</li>
+</ul>
+
+<h5>Vue JS:</h5>
+<ul>
+  <li>Traversy Media</li>
+</ul>
+
+<h5>Vuex :</h5>
+<ul>
+  <li>Traversy Media</li>
+</ul>
+
+<h5>W3 CSS :</h5>
+<ul>
+  <li>Traversy Media</li>
 </ul>
 
 <h5>Web Scraping :</h5>
