@@ -46,7 +46,7 @@
 <h5>Git & Github :</h5>
 <ul>
   <li>Traversy Media</li>
-</li>
+</ul>
 
 <h5>HTML :</h5>
 <ul>
