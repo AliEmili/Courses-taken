@@ -103,6 +103,7 @@
   <li>Heilton</li>
   <li>Lynda : Essential Training, for web devs</li>
   <li>Traversy Media</li>
+  <li>FreeCodeCamp</li>
 </ul>
 
 <h5>Jest :</h5>
