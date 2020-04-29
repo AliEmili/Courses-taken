@@ -59,6 +59,11 @@
   <li>Maktabkhooneh: Irani</li>
 </ul>
 
+<h5>Design Patterns : </h5>
+<ul>
+  <li>Mosh</li>
+</ul>
+
 <h5>Express JS :</h5>
 <ul>
   <li>Traversy Media</li>
