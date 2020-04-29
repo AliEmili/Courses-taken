@@ -104,6 +104,7 @@
   <li>Lynda : Essential Training, for web devs</li>
   <li>Traversy Media</li>
   <li>FreeCodeCamp</li>
+  <li>Mosh</li>
 </ul>
 
 <h5>Jest :</h5>
