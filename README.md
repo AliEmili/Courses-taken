@@ -90,6 +90,7 @@
   <li>Udemy : Beginner to expert, Advanced for web devs</li>
   <li>FreeCodeCamp</li>
   <li>Traversy Media</li>
+  <li>Aparat : Rezaei</li>
 </ul>
 
 <h5>Linux :</h5>
@@ -110,6 +111,7 @@
   <li>Traversy Media</li>
   <li>FreeCodeCamp</li>
   <li>Mosh</li>
+  <li>Aparat : Rezaei</li>
 </ul>
 
 <h5>Jest :</h5>
