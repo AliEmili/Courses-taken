@@ -142,6 +142,11 @@
   <li>Traversy Media</li>
 </ul>
 
+<h5>Object Oriented Programming :</h5>
+<ul>
+  <li>Mosh</li>
+</ul>
+
 <h5>Photoshop :</h5>
 <ul>
   <li>Faradars</li>
