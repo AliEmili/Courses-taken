@@ -48,7 +48,7 @@
 <h5>CSS :</h5>
 <ul>
   <li>Faradars</li>
-  <li>Lynda : James Williamson, Bill Weinman,Christina Truong</li>
+  <li>Lynda : James Williamson, Bill Weinman,Christina Truong 1 & 2 & 3 & design systems and architectures</li>
   <li>Aparat : Rezaei</li>
   <li>FreeCodeCamp</li>
   <li>Traversy Media</li>
