@@ -207,6 +207,11 @@
   <li>Traversy Media</li>
 </ul>
 
+<h5>Strapi.js</h5>
+<ul>
+  <li>Traversy Media</li>
+</ul>
+
 <h5>Telegram bot :</h5>
 <ul>
   <li>Udemy</li>
