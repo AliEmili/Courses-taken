@@ -112,6 +112,7 @@
   <li>FreeCodeCamp</li>
   <li>Mosh</li>
   <li>Aparat : Rezaei</li>
+  <li>Udemy : understanding the weird parts</li>
 </ul>
 
 <h5>Jest :</h5>
