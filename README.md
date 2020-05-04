@@ -2,6 +2,19 @@
 <h5>Adobe Illustrator :</h5>
 <ul>
   <li>Faradars</li>
+  <li>Design Made Simple</li>
+  <li>Adobe illustrator tutorials</li>
+</ul>
+
+<h5>Adobe XD :</h5>
+<ul>
+  <li>Jesse Showalter</li>
+  <li>Terry White</li>
+</ul>
+
+<h5>Agile Methodology :</h5>
+<ul>
+  <li>Edureka!</li>
 </ul>
   
 <h5>Algorithms :</h5>
@@ -27,6 +40,12 @@
 <h5>API :</h5>
 <ul>
   <li>FreeCodeCamp</li>
+  <li>Mosh</li>
+</ul>
+
+<h5>A Star Algorithm :</h5>
+<ul>
+  <li>Well Academy</li>
 </ul>
 
 <h5>Basic Programming :</h5>
@@ -77,6 +96,13 @@
 <h5>Git & Github :</h5>
 <ul>
   <li>Traversy Media</li>
+  <li>Github Training</li>
+  <li>Jadi</li>
+</ul>
+
+<h5>Greedy Algorithm :</h5>
+<ul>
+  <li>CaelusBot</li>
 </ul>
 
 <h5>HTTP :</h5>
@@ -135,9 +161,20 @@
   <li>Traversy Media</li>
 </ul>
 
+<h5>Minimax Algorithm :</h5>
+<ul>
+  <li>Gate Smashers</li>
+</ul>
+
+<h5>Network :</h5>
+<ul>
+  <li>CrashCourse</li>
+</ul>
+
 <h5>Node JS:</h5>
 <ul>
   <li>Traversy Media</li>
+  <li>Learn Coding</li>
 </ul>
 
 <h5>NPM :</h5>
@@ -158,6 +195,8 @@
 <h5>Photoshop :</h5>
 <ul>
   <li>Faradars</li>
+  <li>Nobu Design</li>
+  <li>Photoshop Amateur</li>
 </ul>
 
 <h5>Python :</h5>
@@ -186,9 +225,19 @@
   <li>Traversy Media</li>
 </ul>
 
+<h5>Scribble js</h5>
+<ul>
+  <li>Coding Tech</li>
+</ul>
+
 <h5>Semantic UI CSS :</h5>
 <ul>
   <li>Traversy Media</li>
+</ul>
+
+<h5>Semantic Tags :</h5>
+<ul>
+  <li>Google Chrome Developers</li>
 </ul>
 
 <h5>Skeleton CSS :</h5>
@@ -223,6 +272,19 @@
   <li>Jadi</li>
 </ul>
 
+<h5>Trie :</h5>
+<ul>
+  <li>Lukas Vyhnalek</li>
+</ul>
+
+<h5>UI & UX design Concepts :</h5>
+<ul>
+  <li>Jesse Showalter</li>
+  <li>The Futur</li>
+  <li>UX Mastery</li>
+  <li>Awwwards</li>
+</ul>
+
 <h5>Vue JS :</h5>
 <ul>
   <li>Traversy Media</li>
@@ -236,6 +298,11 @@
 <h5>W3 CSS :</h5>
 <ul>
   <li>Traversy Media</li>
+</ul>
+
+<h5>Waterfall Methodology</h5>
+<ul>
+  <li>WebDevelopment Tutorial</li>
 </ul>
 
 <h5>Web Scraping :</h5>
