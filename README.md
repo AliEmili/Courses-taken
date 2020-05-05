@@ -12,6 +12,11 @@
   <li>Terry White</li>
 </ul>
 
+<h5>Ajax :</h5>
+<ul>
+  <li>Traversy Media</li>
+</ul>
+
 <h5>Agile Methodology :</h5>
 <ul>
   <li>Edureka!</li>
@@ -41,6 +46,7 @@
 <ul>
   <li>FreeCodeCamp</li>
   <li>Mosh</li>
+  <li>Traversy Media</li>
 </ul>
 
 <h5>A Star Algorithm :</h5>
@@ -190,6 +196,7 @@
 <h5>Object Oriented Programming :</h5>
 <ul>
   <li>Mosh</li>
+  <li>Traversy</li>
 </ul>
 
 <h5>Photoshop :</h5>
