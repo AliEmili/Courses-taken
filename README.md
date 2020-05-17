@@ -124,7 +124,7 @@
   <li>FreeCodeCamp</li>
   <li>Traversy Media</li>
   <li>Aparat : Rezaei</li>
-  <li>Udemy : Get to know html learn html basics, htmls & css for beginners</li>
+  <li>Udemy : Get to know html learn html basics, htmls & css for beginners, master html in 60 mins</li>
 </ul>
 
 <h5>Linux :</h5>
