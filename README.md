@@ -32,7 +32,7 @@
   <li>Maktabkhooneh : Irani, Jafari Nejad, Khosravi</li>
 </ul>
 
-<h5>Angular JS:</h5>
+<h5>Angular JS :</h5>
 <ul>
   <li>Traversy Media</li>
 </ul>
@@ -65,7 +65,7 @@
   <li>Traversy Media</li>
 </ul>
 
-<h5>Bulma :</h5>
+<h5>Bulma CSS:</h5>
 <ul>
   <li>Traversy Media</li>
 </ul>
@@ -77,9 +77,10 @@
   <li>Aparat : Rezaei</li>
   <li>FreeCodeCamp</li>
   <li>Traversy Media</li>
+  <li>Udemy : Get to know html learn html basics, htmls & css for beginners</li>
 </ul>
 
-<h5>DataBase :</h5>
+<h5>DataBase(theroy) :</h5>
 <ul>
   <li>Maktabkhooneh: Irani</li>
 </ul>
@@ -119,10 +120,11 @@
 <h5>HTML :</h5>
 <ul>
   <li>Faradars</li>
-  <li>Udemy : Beginner to expert, Advanced for web devs</li>
+  <li>Udemy : Beginner to expert, Advanced for web devs, fundamentals of html5</li>
   <li>FreeCodeCamp</li>
   <li>Traversy Media</li>
   <li>Aparat : Rezaei</li>
+  <li>Udemy : Get to know html learn html basics, htmls & css for beginners</li>
 </ul>
 
 <h5>Linux :</h5>
@@ -307,7 +309,7 @@
   <li>Traversy Media</li>
 </ul>
 
-<h5>Waterfall Methodology</h5>
+<h5>Waterfall Methodology :</h5>
 <ul>
   <li>WebDevelopment Tutorial</li>
 </ul>
