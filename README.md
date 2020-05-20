@@ -146,7 +146,7 @@
   <li>FreeCodeCamp</li>
   <li>Mosh</li>
   <li>Aparat : Rezaei</li>
-  <li>Udemy : understanding the weird parts</li>
+  <li>Udemy : understanding the weird parts, the complete javascript course build a real-world project</li>
 </ul>
 
 <h5>Jest :</h5>
