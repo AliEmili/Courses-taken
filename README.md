@@ -77,7 +77,7 @@
   <li>Aparat : Rezaei</li>
   <li>FreeCodeCamp</li>
   <li>Traversy Media</li>
-  <li>Udemy : Get to know html learn html basics, htmls & css for beginners</li>
+  <li>Udemy : Get to know html learn html basics, html & css for beginners, Html, css & javascript for beginners</li>
 </ul>
 
 <h5>DataBase(theroy) :</h5>
@@ -124,7 +124,7 @@
   <li>FreeCodeCamp</li>
   <li>Traversy Media</li>
   <li>Aparat : Rezaei</li>
-  <li>Udemy : Get to know html learn html basics, htmls & css for beginners, master html in 60 mins</li>
+  <li>Udemy : Get to know html learn html basics, htmls & css for beginners, master html in 60 mins, Html, css & javascript for beginners</li>
 </ul>
 
 <h5>Linux :</h5>
@@ -146,7 +146,7 @@
   <li>FreeCodeCamp</li>
   <li>Mosh</li>
   <li>Aparat : Rezaei</li>
-  <li>Udemy : understanding the weird parts, the complete javascript course build a real-world project</li>
+  <li>Udemy : understanding the weird parts, the complete javascript course build a real-world project, html, css & javascript for beginners</li>
 </ul>
 
 <h5>Jest :</h5>
