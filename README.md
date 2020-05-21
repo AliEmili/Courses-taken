@@ -63,6 +63,8 @@
 <ul>
   <li>Sourcebaran</li>
   <li>Traversy Media</li>
+  <li>Udemy : Complete responsive web development‌</li>
+  <li>Aparat : Rezaei</li>
 </ul>
 
 <h5>Bulma CSS:</h5>
@@ -77,7 +79,7 @@
   <li>Aparat : Rezaei</li>
   <li>FreeCodeCamp</li>
   <li>Traversy Media</li>
-  <li>Udemy : Get to know html learn html basics, html & css for beginners, Html, css & javascript for beginners</li>
+  <li>Udemy : Get to know html learn html basics, html & css for beginners, Html, css & javascript for beginners, Complete responsive web development‌</li>
 </ul>
 
 <h5>DataBase(theroy) :</h5>
@@ -124,7 +126,7 @@
   <li>FreeCodeCamp</li>
   <li>Traversy Media</li>
   <li>Aparat : Rezaei</li>
-  <li>Udemy : Get to know html learn html basics, htmls & css for beginners, master html in 60 mins, Html, css & javascript for beginners</li>
+  <li>Udemy : Get to know html learn html basics, htmls & css for beginners, master html in 60 mins, Html, css & javascript for beginners, Complete responsive web development‌</li>
 </ul>
 
 <h5>Linux :</h5>
@@ -162,6 +164,8 @@
 <h5>Jquery :</h5>
 <ul>
   <li>Traversy Media</li>
+  <li>Udemy : Complete responsive web development‌</li>
+  <li>Aparat : rezaei</li>
 </ul>
 
 <h5>Materialize :</h5>
@@ -183,6 +187,7 @@
 <ul>
   <li>Traversy Media</li>
   <li>Learn Coding</li>
+  <li>Aparat : Rezaei</li>
 </ul>
 
 <h5>NPM :</h5>
