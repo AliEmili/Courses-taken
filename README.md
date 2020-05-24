@@ -63,7 +63,7 @@
 <ul>
   <li>Sourcebaran</li>
   <li>Traversy Media</li>
-  <li>Udemy : Complete responsive web development‌</li>
+  <li>Udemy : Complete responsive web development‌, Front end web development for beginners (a practical guide), Practical web design & development: 7 courses in 1, The Complete front-end web development course</li>
   <li>Aparat : Rezaei</li>
 </ul>
 
@@ -79,7 +79,7 @@
   <li>Aparat : Rezaei</li>
   <li>FreeCodeCamp</li>
   <li>Traversy Media</li>
-  <li>Udemy : Get to know html learn html basics, html & css for beginners, Html, css & javascript for beginners, Complete responsive web development‌</li>
+  <li>Udemy : Get to know html learn html basics, html & css for beginners, Html, css & javascript for beginners, Complete responsive web development‌, Front end web development for beginners (a practical guide), Practical web design & development: 7 courses in 1, The Complete front-end web development course</li>
 </ul>
 
 <h5>DataBase(theroy) :</h5>
@@ -126,7 +126,7 @@
   <li>FreeCodeCamp</li>
   <li>Traversy Media</li>
   <li>Aparat : Rezaei</li>
-  <li>Udemy : Get to know html learn html basics, htmls & css for beginners, master html in 60 mins, Html, css & javascript for beginners, Complete responsive web development‌</li>
+  <li>Udemy : Get to know html learn html basics, html & css for beginners, master html in 60 mins, Html, css & javascript for beginners, Complete responsive web development‌, Front end web development for beginners (a practical guide), Practical web design & development: 7 courses in 1, The Complete front-end web development course</li>
 </ul>
 
 <h5>Linux :</h5>
@@ -164,7 +164,7 @@
 <h5>Jquery :</h5>
 <ul>
   <li>Traversy Media</li>
-  <li>Udemy : Complete responsive web development‌</li>
+  <li>Udemy : Complete responsive web development‌, The Complete front-end web development course</li>
   <li>Aparat : rezaei</li>
 </ul>
 
@@ -211,6 +211,7 @@
   <li>Faradars</li>
   <li>Nobu Design</li>
   <li>Photoshop Amateur</li>
+  <li>Udemy: Practical web design & development: 7 courses in 1</li>
 </ul>
 
 <h5>Python :</h5>
