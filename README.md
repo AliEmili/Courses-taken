@@ -47,6 +47,7 @@
   <li>FreeCodeCamp</li>
   <li>Mosh</li>
   <li>Traversy Media</li>
+  <li>Udemy: The Complete 2020 web development bootcamp: Angela Yu</li>
 </ul>
 
 <h5>A Star Algorithm :</h5>
@@ -63,7 +64,7 @@
 <ul>
   <li>Sourcebaran</li>
   <li>Traversy Media</li>
-  <li>Udemy : Complete responsive web development‌, Front end web development for beginners (a practical guide), Practical web design & development: 7 courses in 1, The Complete front-end web development course</li>
+  <li>Udemy : Complete responsive web development‌, Front end web development for beginners (a practical guide), Practical web design & development: 7 courses in 1, The Complete front-end web development course, The Complete 2020 web development bootcamp: Angela Yu</li>
   <li>Aparat : Rezaei</li>
 </ul>
 
@@ -79,12 +80,13 @@
   <li>Aparat : Rezaei</li>
   <li>FreeCodeCamp</li>
   <li>Traversy Media</li>
-  <li>Udemy : Get to know html learn html basics, html & css for beginners, Html, css & javascript for beginners, Complete responsive web development‌, Front end web development for beginners (a practical guide), Practical web design & development: 7 courses in 1, The Complete front-end web development course</li>
+  <li>Udemy : Get to know html learn html basics, html & css for beginners, Html, css & javascript for beginners, Complete responsive web development‌, Front end web development for beginners (a practical guide), Practical web design & development: 7 courses in 1, The Complete front-end web development course, The Complete 2020 web development bootcamp: Angela Yu</li>
 </ul>
 
 <h5>DataBase(theroy) :</h5>
 <ul>
   <li>Maktabkhooneh: Irani</li>
+  <li>Udemy: The Complete 2020 web development bootcamp: Angela Yu</li>
 </ul>
 
 <h5>Design Patterns : </h5>
@@ -92,9 +94,15 @@
   <li>Mosh</li>
 </ul>
 
+<h5>EJS Engine :</h5>
+<ul>
+  <li>Udemy: The Complete 2020 web development bootcamp: Angela Yu</li>
+</ul>
+
 <h5>Express JS :</h5>
 <ul>
   <li>Traversy Media</li>
+  <li>Udemy: The Complete 2020 web development bootcamp: Angela Yu</li>
 </ul>
 
 <h5>Foundation CSS :</h5>
@@ -107,6 +115,7 @@
   <li>Traversy Media</li>
   <li>Github Training</li>
   <li>Jadi</li>
+  <li>Udemy: The Complete 2020 web development bootcamp: Angela Yu</li>
 </ul>
 
 <h5>Greedy Algorithm :</h5>
@@ -126,7 +135,7 @@
   <li>FreeCodeCamp</li>
   <li>Traversy Media</li>
   <li>Aparat : Rezaei</li>
-  <li>Udemy : Get to know html learn html basics, html & css for beginners, master html in 60 mins, Html, css & javascript for beginners, Complete responsive web development‌, Front end web development for beginners (a practical guide), Practical web design & development: 7 courses in 1, The Complete front-end web development course</li>
+  <li>Udemy : Get to know html learn html basics, html & css for beginners, master html in 60 mins, Html, css & javascript for beginners, Complete responsive web development‌, Front end web development for beginners (a practical guide), Practical web design & development: 7 courses in 1, The Complete front-end web development course, The Complete 2020 web development bootcamp: Angela Yu</li>
 </ul>
 
 <h5>Linux :</h5>
@@ -148,7 +157,7 @@
   <li>FreeCodeCamp</li>
   <li>Mosh</li>
   <li>Aparat : Rezaei</li>
-  <li>Udemy : understanding the weird parts, the complete javascript course build a real-world project, html, css & javascript for beginners, Advanced Javascript</li>
+  <li>Udemy : understanding the weird parts, the complete javascript course build a real-world project, html, css & javascript for beginners, Advanced Javascript, The Complete 2020 web development bootcamp: Angela Yu</li>
 </ul>
 
 <h5>Jest :</h5>
@@ -164,7 +173,7 @@
 <h5>Jquery :</h5>
 <ul>
   <li>Traversy Media</li>
-  <li>Udemy : Complete responsive web development‌, The Complete front-end web development course</li>
+  <li>Udemy : Complete responsive web development‌, The Complete front-end web development course, The Complete 2020 web development bootcamp: Angela Yu</li>
   <li>Aparat : rezaei</li>
 </ul>
 
@@ -178,6 +187,12 @@
   <li>Gate Smashers</li>
 </ul>
 
+<h5>MongoDB & Mongoose :</h5>
+<ul>
+  <li>Udemy: The Complete 2020 web development bootcamp: Angela Yu</li>
+</ul>
+
+
 <h5>Network :</h5>
 <ul>
   <li>CrashCourse</li>
@@ -188,6 +203,7 @@
   <li>Traversy Media</li>
   <li>Learn Coding</li>
   <li>Aparat : Rezaei</li>
+  <li>Udemy: The Complete 2020 web development bootcamp: Angela Yu</li>
 </ul>
 
 <h5>NPM :</h5>
@@ -223,6 +239,7 @@
 <h5>React JS :</h5>
 <ul>
   <li>Traversy Media</li>
+  <li>Udemy: The Complete 2020 web development bootcamp: Angela Yu</li>
 </ul>
 
 <h5>React Native :</h5>
@@ -298,6 +315,7 @@
   <li>The Futur</li>
   <li>UX Mastery</li>
   <li>Awwwards</li>
+  <li>Udemy: The Complete 2020 web development bootcamp: Angela Yu</li>
 </ul>
 
 <h5>Vue JS :</h5>
