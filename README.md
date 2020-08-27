@@ -239,7 +239,7 @@
 <h5>React JS :</h5>
 <ul>
   <li>Traversy Media</li>
-  <li>Udemy: The Complete 2020 web development bootcamp: Angela Yu</li>
+  <li>Udemy: The Complete 2020 web development bootcamp: Angela Yu, Essential Training: Eve Porcello</li>
 </ul>
 
 <h5>React Native :</h5>
