@@ -203,7 +203,7 @@
   <li>Traversy Media</li>
   <li>Learn Coding</li>
   <li>Aparat : Rezaei</li>
-  <li>Udemy: The Complete 2020 web development bootcamp: Angela Yu</li>
+  <li>Udemy: The Complete 2020 web development bootcamp: Angela Yu, Complete Next.js with React & Node : Flip Jerga</li>
 </ul>
 
 <h5>NPM :</h5>
@@ -214,6 +214,11 @@
 <h5>Nuxt :</h5>
 <ul>
   <li>Traversy Media</li>
+</ul>
+
+<h5>Next.js :</h5>
+<ul>
+  <li>Udemy: Complete Next.js with React & Node : Flip Jerga.</li>
 </ul>
 
 <h5>Object Oriented Programming :</h5>
@@ -239,7 +244,7 @@
 <h5>React JS :</h5>
 <ul>
   <li>Traversy Media</li>
-  <li>Udemy: The Complete 2020 web development bootcamp: Angela Yu, Essential Training: Eve Porcello</li>
+  <li>Udemy: The Complete 2020 web development bootcamp: Angela Yu, Essential Training: Eve Porcello, Complete Next.js with React & Node : Flip Jerga</li>
 </ul>
 
 <h5>React Native :</h5>
