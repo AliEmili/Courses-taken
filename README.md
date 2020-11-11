@@ -244,7 +244,7 @@
 <h5>React JS :</h5>
 <ul>
   <li>Traversy Media</li>
-  <li>Academind : ReactJs Basics</li>
+  <li>Academind : ReactJs Basics, ReactJs tutorial for beginners - getting started</li>
   <li>Udemy: The Complete 2020 web development bootcamp: Angela Yu, Essential Training: Eve Porcello, Complete Next.js with React & Node : Flip Jerga</li>
 </ul>
 
