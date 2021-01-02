@@ -1,364 +1,351 @@
 # Courses-taken
-<h5>Adobe Illustrator :</h5>
-<ul>
-  <li>Faradars</li>
-  <li>Design Made Simple</li>
-  <li>Adobe illustrator tutorials</li>
-</ul>
+## Adobe Illustrator 
+- Faradars
+- YouTube
+  - Design Made Simple
+  - Adobe illustrator tutorials
 
-<h5>Adobe XD :</h5>
-<ul>
-  <li>Jesse Showalter</li>
-  <li>Terry White</li>
-</ul>
+## Adobe XD
+- YouTube
+  - Jesse Showalter
+  - Terry White
 
-<h5>Ajax :</h5>
-<ul>
-  <li>Traversy Media</li>
-</ul>
+## Ajax
+- YouTube
+  - Traversy Media
 
-<h5>Agile Methodology :</h5>
-<ul>
-  <li>Edureka!</li>
-</ul>
+## Agile Methodology
+- Youtube
+  - Edureka!
   
-<h5>Algorithms :</h5>
-<ul>
-  <li>Heilton</li>
-</ul>
+## Algorithms
+- Heilton
 
-<h5>Advanced Programming :</h5>
-<ul>
-  <li>Maktabkhooneh : Irani, Jafari Nejad, Khosravi</li>
-</ul>
+## Advanced Programming
+- Maktabkhooneh 
+  - Irani 
+  - Jafari Nejad
+  - Khosravi
 
-<h5>Angular JS :</h5>
-<ul>
-  <li>Traversy Media</li>
-</ul>
+## Angular JS
+- YouTube
+  - Traversy Media
 
-<h5>Axios :</h5>
-<ul>
-  <li>Traversy Media</li>
-</ul>
+## Axios
+- YouTube
+  - Traversy Media
 
-<h5>API :</h5>
-<ul>
-  <li>FreeCodeCamp</li>
-  <li>Mosh</li>
-  <li>Traversy Media</li>
-  <li>Udemy: The Complete 2020 web development bootcamp: Angela Yu</li>
-</ul>
+## API
+- YouTube
+  - FreeCodeCamp
+  - Code With Mosh
+  - Traversy Media
+- Udemy 
+  - The Complete 2020 web development bootcamp: Angela Yu
 
-<h5>A Star Algorithm :</h5>
-<ul>
-  <li>Well Academy</li>
-</ul>
+## A Star Algorithm
+- YouTube
+  - Well Academy
 
-<h5>Basic Programming :</h5>
-<ul>
-  <li>Maktabkhooneh : Irani</li>
-</ul>
+## Basic Programming
+- Maktabkhooneh
+  - Irani
 
-<h5>Bootstrap CSS :</h5>
-<ul>
-  <li>Sourcebaran</li>
-  <li>Traversy Media</li>
-  <li>Udemy : Complete responsive web development‌, Front end web development for beginners (a practical guide), Practical web design & development: 7 courses in 1, The Complete front-end web development course, The Complete 2020 web development bootcamp: Angela Yu</li>
-  <li>Aparat : Rezaei</li>
-</ul>
+## Bootstrap CSS
+- Sourcebaran
+- YouTube
+  - Traversy Media
+- Udemy
+  - Complete responsive web development
+  - Front end web development for beginners (a practical guide)
+  - Practical web design & development: 7 courses in 1
+  - The Complete front-end web development course
+  - The Complete 2020 web development bootcamp: Angela Yu
+- Aparat
+  - Rezaei
 
-<h5>Bulma CSS:</h5>
-<ul>
-  <li>Traversy Media</li>
-</ul>
+## Bulma CSS
+- YouTube
+  - Traversy Media
 
-<h5>CSS :</h5>
-<ul>
-  <li>Faradars</li>
-  <li>Lynda : James Williamson, Bill Weinman,Christina Truong 1 & 2 & 3 & design systems and architectures</li>
-  <li>Aparat : Rezaei</li>
-  <li>FreeCodeCamp</li>
-  <li>Traversy Media</li>
-  <li>Udemy : Get to know html learn html basics, html & css for beginners, Html, css & javascript for beginners, Complete responsive web development‌, Front end web development for beginners (a practical guide), Practical web design & development: 7 courses in 1, The Complete front-end web development course, The Complete 2020 web development bootcamp: Angela Yu</li>
-</ul>
+## CSS
+- Faradars
+- Lynda
+  - James Williamson
+  - Bill Weinman
+  - Christina Truong 1 & 2 & 3 & design systems and architectures
+- Aparat
+  - Rezaei
+- YouTube
+  - FreeCodeCamp
+  - Traversy Media
+- Udemy
+  - Get to know html learn html basics
+  - html & css for beginners, Html, css & javascript for beginners
+  - Complete responsive web development
+  - Front end web development for beginners (a practical guide)
+  - Practical web design & development: 7 courses in 1
+  - The Complete front-end web development course
+  - The Complete 2020 web development bootcamp: Angela Yu
 
-<h5>DataBase(theroy) :</h5>
-<ul>
-  <li>Maktabkhooneh: Irani</li>
-  <li>Udemy: The Complete 2020 web development bootcamp: Angela Yu</li>
-</ul>
+## DataBase(theroy)
+- Maktabkhooneh
+  - Irani
+- Udemy
+  - The Complete 2020 web development bootcamp: Angela Yu
 
-<h5>Design Patterns : </h5>
-<ul>
-  <li>Mosh</li>
-</ul>
+## Design Patterns
+- YouTube
+  - Code With Mosh
 
-<h5>EJS Engine :</h5>
-<ul>
-  <li>Udemy: The Complete 2020 web development bootcamp: Angela Yu</li>
-</ul>
+## EJS Engine
+- Udemy: The Complete 2020 web development bootcamp: Angela Yu
 
-<h5>Express JS :</h5>
-<ul>
-  <li>Traversy Media</li>
-  <li>Udemy: The Complete 2020 web development bootcamp: Angela Yu</li>
-</ul>
+## Express JS
+- YouTube
+  - Traversy Media
+- Udemy
+  - The Complete 2020 web development bootcamp: Angela Yu
 
-<h5>Foundation CSS :</h5>
-<ul>
-  <li>Traversy Media</li>
-</ul>
+## Foundation CSS
+- YouTube
+  - Traversy Media
 
-<h5>Git & Github :</h5>
-<ul>
-  <li>Traversy Media</li>
-  <li>Github Training</li>
-  <li>Jadi</li>
-  <li>Udemy: The Complete 2020 web development bootcamp: Angela Yu</li>
-</ul>
+## Git
+- YouTube
+  - Traversy Media
+  - Github Training
+  - Jadi
+- Udemy
+  - The Complete 2020 web development bootcamp: Angela Yu
 
-<h5>Greedy Algorithm :</h5>
-<ul>
-  <li>CaelusBot</li>
-</ul>
+## Greedy Algorithm
+- YouTube
+  - CaelusBot
 
-<h5>HTTP :</h5>
-<ul>
-  <li>Traversy Media</li>
-</ul>
+## HTTP
+- YouTube
+  - Traversy Media
 
-<h5>HTML :</h5>
-<ul>
-  <li>Faradars</li>
-  <li>Udemy : Beginner to expert, Advanced for web devs, fundamentals of html5</li>
-  <li>FreeCodeCamp</li>
-  <li>Traversy Media</li>
-  <li>Aparat : Rezaei</li>
-  <li>Udemy : Get to know html learn html basics, html & css for beginners, master html in 60 mins, Html, css & javascript for beginners, Complete responsive web development‌, Front end web development for beginners (a practical guide), Practical web design & development: 7 courses in 1, The Complete front-end web development course, The Complete 2020 web development bootcamp: Angela Yu</li>
-</ul>
+## HTML
+- Faradars
+- Udemy
+  - Beginner to expert
+  - Advanced for web devs
+  - Fundamentals of html5
+- YouTube
+  - FreeCodeCamp
+  - Traversy Media
+- Aparat
+  - Rezaei
+- Udemy
+  - Get to know html learn html basics
+  - html & css for beginners
+  - master html in 60 mins
+  - Html, css & javascript for beginners 
+  - Complete responsive web development
+  - Front end web development for beginners (a practical guide)
+  - Practical web design & development: 7 courses in 1
+  - The Complete front-end web development course
+  - The Complete 2020 web development bootcamp: Angela Yu
 
-<h5>Linux :</h5>
-<ul>
-  <li>Jadi</li>
-</ul>
+## Linux
+- YouTube
+  - Jadi
 
-<h5>Instagram Growth :</h5>
-<ul>
-  <li>Udemy</li>
-</ul>
+## Instagram Growth
+- Udemy
 
-<h5>JavaScript :</h5>
-<ul>
-  <li>Faradars</li>
-  <li>Heilton</li>
-  <li>Lynda : Essential Training, for web devs</li>
-  <li>Traversy Media</li>
-  <li>Academind : JavaScript & ES6 (YouTube)</li>
-  <li>FreeCodeCamp</li>
-  <li>Mosh</li>
-  <li>Aparat : Rezaei</li>
-  <li>Udemy : understanding the weird parts, the complete javascript course build a real-world project, html, css & javascript for beginners, Advanced Javascript, The Complete 2020 web development bootcamp: Angela Yu</li>
-</ul>
+## JavaScript
+- Faradars
+- Heilton
+- Lynda
+  - Essential Training
+  - for web devs
+- YouTube
+  - Traversy Media
+  - Academind
+    - JavaScript 
+    - ES6
+  - FreeCodeCamp
+  - Code With Mosh
+- Aparat
+  - Rezaei
+- Udemy
+  - Understanding the weird parts
+  - The complete javascript course build a real-world project
+  - Html, css & javascript for beginners
+  - Advanced Javascript
+  - The Complete 2020 web development bootcamp: Angela Yu
 
-<h5>Jest :</h5>
-<ul>
-  <li>Traversy Media</li>
-</ul>
+## Jest
+- YouTube
+  - Traversy Media
 
-<h5>JSDoc :</h5>
-<ul>
-  <li>Traversy Media</li>
-</ul>
+## JSDoc
+- YouTube
+  - Traversy Media
 
-<h5>Jquery :</h5>
-<ul>
-  <li>Traversy Media</li>
-  <li>Udemy : Complete responsive web development‌, The Complete front-end web development course, The Complete 2020 web development bootcamp: Angela Yu</li>
-  <li>Aparat : rezaei</li>
-</ul>
+## Jquery
+- YouTube
+  - Traversy Media
+- Udemy
+  - Complete responsive web development
+  - The Complete front-end web development course
+  - The Complete 2020 web development bootcamp: Angela Yu
+- Aparat
+    - rezaei
 
-<h5>Materialize :</h5>
-<ul>
-  <li>Traversy Media</li>
-</ul>
+## Materialize
+- YouTube
+  - Traversy Media
 
-<h5>Minimax Algorithm :</h5>
-<ul>
-  <li>Gate Smashers</li>
-</ul>
+## Minimax Algorithm
+- YouTube
+  - Gate Smashers
 
-<h5>MongoDB & Mongoose :</h5>
-<ul>
-  <li>Udemy: The Complete 2020 web development bootcamp: Angela Yu</li>
-</ul>
+## MongoDB & Mongoose
+- Udemy
+  - The Complete 2020 web development bootcamp: Angela Yu
 
 
-<h5>Network :</h5>
-<ul>
-  <li>CrashCourse</li>
-</ul>
+## Network
+- YouTube
+  - CrashCourse
 
-<h5>Node JS:</h5>
-<ul>
-  <li>Traversy Media</li>
-  <li>Learn Coding</li>
-  <li>Aparat : Rezaei</li>
-  <li>Udemy: The Complete 2020 web development bootcamp: Angela Yu, Complete Next.js with React & Node : Flip Jerga</li>
-</ul>
+## Node JS
+- YouTube
+  - Traversy Media
+  - Learn Coding
+- Aparat
+  - Rezaei
+- Udemy
+  - The Complete 2020 web development bootcamp: Angela Yu
+  - Complete Next.js with React & Node : Flip Jerga
 
-<h5>NPM :</h5>
-<ul>
-  <li>Traversy Media</li>
-</ul>
+## NPM
+- YouTube
+  - Traversy Media
 
-<h5>Nuxt :</h5>
-<ul>
-  <li>Traversy Media</li>
-</ul>
+## Nuxt
+- YouTube
+  - Traversy Media
 
-<h5>Next.js :</h5>
-<ul>
-  <li>Udemy: Complete Next.js with React & Node : Flip Jerga.</li>
-</ul>
+## Next.js
+- Udemy
+  - Complete Next.js with React & Node : Flip Jerga
 
-<h5>Object Oriented Programming :</h5>
-<ul>
-  <li>Mosh</li>
-  <li>Traversy</li>
-</ul>
+## Object Oriented Programming
+- YouTube
+  - Code With Mosh
+  - Traversy
 
-<h5>Photoshop :</h5>
-<ul>
-  <li>Faradars</li>
-  <li>Nobu Design</li>
-  <li>Photoshop Amateur</li>
-  <li>Udemy: Practical web design & development: 7 courses in 1</li>
-</ul>
+## Photoshop
+- Faradars
+- YouTube
+  - Nobu Design
+  - Photoshop Amateur
+- Udemy
+  - Practical web design & development: 7 courses in 1
 
-<h5>Python :</h5>
-<ul>
-  <li>Faradars</li>
-  <li>Traversy Media</li>
-</ul>
+## Python
+- Faradars
+- YouTube
+  - Traversy Media
 
-<h5>React JS :</h5>
-<ul>
-  <li>Traversy Media</li>
-  <li>Code With Mosh : youtube</li>
-  <li>Academind : ReactJs Basics, ReactJs tutorial for beginners - getting started</li>
-  <li>Udemy: The Complete 2020 web development bootcamp: Angela Yu, Essential Training: Eve Porcello, Complete Next.js with React & Node : Flip Jerga</li>
-</ul>
+## React JS
+- YouTube
+  - Traversy Media
+  - Code With Mosh
+  - Academind
+    - ReactJs Basics
+    - ReactJs tutorial for beginners - getting started
+- Udemy
+  - The Complete 2020 web development bootcamp: Angela Yu
+  - Essential Training: Eve Porcello
+  - Complete Next.js with React & Node : Flip Jerga
 
-<h5>React Native :</h5>
-<ul>
-  <li>Traversy Media</li>
-</ul>
+## React Native
+- YouTube
+  - Traversy Media
 
-<h5>Redux :</h5>
-<ul>
-  <li>Code With Mosh : youtube</li>
-</ul>
+## Redux
+- YouTube
+  - Code With Mosh
+  - Academind
 
-<h5>Regular Expressions :</h5>
-<ul>
-  <li>Jadi</li>
-</ul>
+## Regular Expressions
+- Jadi
 
-<h5>Sass :</h5>
-<ul>
-  <li>Traversy Media</li>
-</ul>
+## Sass
+- YouTube
+  - Traversy Media
 
-<h5>Scribble js</h5>
-<ul>
-  <li>Coding Tech</li>
-</ul>
+## Scribble js
+- YouTube
+  - Coding Tech
 
-<h5>Semantic UI CSS :</h5>
-<ul>
-  <li>Traversy Media</li>
-</ul>
+## Semantic UI CSS
+- YouTube
+  - Traversy Media
 
-<h5>Semantic Tags :</h5>
-<ul>
-  <li>Google Chrome Developers</li>
-</ul>
+## Semantic Tags
+- YouTube
+  - Google Chrome Developers
 
-<h5>Skeleton CSS :</h5>
-<ul>
-  <li>Traversy Media</li>
-</ul>
+## Skeleton CSS
+- YouTube
+  - Traversy Media
 
-<h5>SQL :</h5>
-<ul>
-  <li>Sourcebaran</li>
-  <li>Mosh</li>
-  <li>Traversy Media</li>
-</ul>
+## SQL
+- Sourcebaran
+- YouTube
+  - Code With Mosh
+  - Traversy Media
 
-<h5>SSH :</h5>
-<ul>
-  <li>Traversy Media</li>
-</ul>
+## SSH
+- YouTube
+  - Traversy Media
 
-<h5>Strapi.js</h5>
-<ul>
-  <li>Traversy Media</li>
-</ul>
+## Strapi.js
+- YouTube
+  - Traversy Media
 
-<h5>Telegram bot :</h5>
-<ul>
-  <li>Udemy</li>
-</ul>
+## Telegram bot
+  Udemy
     
-<h5>TMUX :</h5>
-<ul>
-  <li>Jadi</li>
-</ul>
+## TMUX
+- Jadi
 
-<h5>Trie :</h5>
-<ul>
-  <li>Lukas Vyhnalek</li>
-</ul>
+## Trie
+- YouTube
+  - Lukas Vyhnalek
 
-<h5>UI & UX design Concepts :</h5>
-<ul>
-  <li>Jesse Showalter</li>
-  <li>The Futur</li>
-  <li>UX Mastery</li>
-  <li>Awwwards</li>
-  <li>Udemy: The Complete 2020 web development bootcamp: Angela Yu</li>
-</ul>
+## UI & UX design Concepts
+- YouTube
+  - Jesse Showalter
+  - The Futur
+  - UX Mastery
+  - Awwwards
+  - Udemy
+    - The Complete 2020 web development bootcamp: Angela Yu
 
-<h5>Vue JS :</h5>
-<ul>
-  <li>Traversy Media</li>
-</ul>
+## Vue JS
+- YouTube
+  - Traversy Media
 
-<h5>Vuex :</h5>
-<ul>
-  <li>Traversy Media</li>
-</ul>
+## Vuex
+- YouTube
+  - Traversy Media
 
-<h5>W3 CSS :</h5>
-<ul>
-  <li>Traversy Media</li>
-</ul>
+## W3 CSS
+- YouTube
+  - Traversy Media
 
-<h5>Waterfall Methodology :</h5>
-<ul>
-  <li>WebDevelopment Tutorial</li>
-</ul>
+## Waterfall Methodology
+- YouTube
+  - WebDevelopment Tutorial
 
-<h5>Web Scraping :</h5>
-<ul>
-  <li>Packt</li>
-  <li>Jadi</li>
-</ul>
-
-<h5>Web Programming :</h5>
-<ul>
-  <li>Maktabkhooneh : Saleh</li>
-</ul>
-
+## Web Scraping
+- Packt
+- Jadi
