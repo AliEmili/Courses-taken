@@ -154,7 +154,7 @@
   <li>Heilton</li>
   <li>Lynda : Essential Training, for web devs</li>
   <li>Traversy Media</li>
-  <li>Academind : ES6 (YouTube)</li>
+  <li>Academind : JavaScript & ES6 (YouTube)</li>
   <li>FreeCodeCamp</li>
   <li>Mosh</li>
   <li>Aparat : Rezaei</li>
