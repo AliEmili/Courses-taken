@@ -312,7 +312,7 @@
   - Traversy Media
 
 ## Telegram bot
-  Udemy
+- Udemy
     
 ## TMUX
 - Jadi
