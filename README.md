@@ -1,41 +1,41 @@
 # Courses-taken
-## Adobe Illustrator 
+### Adobe Illustrator 
 - Faradars
 - YouTube
   - Design Made Simple
   - Adobe illustrator tutorials
 
-## Adobe XD
+### Adobe XD
 - YouTube
   - Jesse Showalter
   - Terry White
 
-## Ajax
+### Ajax
 - YouTube
   - Traversy Media
 
-## Agile Methodology
+### Agile Methodology
 - Youtube
   - Edureka!
   
-## Algorithms
+### Algorithms
 - Heilton
 
-## Advanced Programming
+### Advanced Programming
 - Maktabkhooneh 
   - Irani 
   - Jafari Nejad
   - Khosravi
 
-## Angular JS
+### Angular JS
 - YouTube
   - Traversy Media
 
-## Axios
+### Axios
 - YouTube
   - Traversy Media
 
-## API
+### API
 - YouTube
   - FreeCodeCamp
   - Code With Mosh
@@ -43,15 +43,15 @@
 - Udemy 
   - The Complete 2020 web development bootcamp: Angela Yu
 
-## A Star Algorithm
+### A Star Algorithm
 - YouTube
   - Well Academy
 
-## Basic Programming
+### Basic Programming
 - Maktabkhooneh
   - Irani
 
-## Bootstrap CSS
+### Bootstrap CSS
 - Sourcebaran
 - YouTube
   - Traversy Media
@@ -64,11 +64,11 @@
 - Aparat
   - Rezaei
 
-## Bulma CSS
+### Bulma CSS
 - YouTube
   - Traversy Media
 
-## CSS
+### CSS
 - Faradars
 - Lynda
   - James Williamson
@@ -88,30 +88,30 @@
   - The Complete front-end web development course
   - The Complete 2020 web development bootcamp: Angela Yu
 
-## DataBase(theroy)
+### DataBase(theroy)
 - Maktabkhooneh
   - Irani
 - Udemy
   - The Complete 2020 web development bootcamp: Angela Yu
 
-## Design Patterns
+### Design Patterns
 - YouTube
   - Code With Mosh
 
-## EJS Engine
+### EJS Engine
 - Udemy: The Complete 2020 web development bootcamp: Angela Yu
 
-## Express JS
+### Express JS
 - YouTube
   - Traversy Media
 - Udemy
   - The Complete 2020 web development bootcamp: Angela Yu
 
-## Foundation CSS
+### Foundation CSS
 - YouTube
   - Traversy Media
 
-## Git
+### Git
 - YouTube
   - Traversy Media
   - Github Training
@@ -119,15 +119,15 @@
 - Udemy
   - The Complete 2020 web development bootcamp: Angela Yu
 
-## Greedy Algorithm
+### Greedy Algorithm
 - YouTube
   - CaelusBot
 
-## HTTP
+### HTTP
 - YouTube
   - Traversy Media
 
-## HTML
+### HTML
 - Faradars
 - Udemy
   - Beginner to expert
@@ -149,14 +149,14 @@
   - The Complete front-end web development course
   - The Complete 2020 web development bootcamp: Angela Yu
 
-## Linux
+### Linux
 - YouTube
   - Jadi
 
-## Instagram Growth
+### Instagram Growth
 - Udemy
 
-## JavaScript
+### JavaScript
 - Faradars
 - Heilton
 - Lynda
@@ -178,15 +178,15 @@
   - Advanced Javascript
   - The Complete 2020 web development bootcamp: Angela Yu
 
-## Jest
+### Jest
 - YouTube
   - Traversy Media
 
-## JSDoc
+### JSDoc
 - YouTube
   - Traversy Media
 
-## Jquery
+### Jquery
 - YouTube
   - Traversy Media
 - Udemy
@@ -196,24 +196,24 @@
 - Aparat
     - rezaei
 
-## Materialize
+### Materialize
 - YouTube
   - Traversy Media
 
-## Minimax Algorithm
+### Minimax Algorithm
 - YouTube
   - Gate Smashers
 
-## MongoDB & Mongoose
+### MongoDB & Mongoose
 - Udemy
   - The Complete 2020 web development bootcamp: Angela Yu
 
 
-## Network
+### Network
 - YouTube
   - CrashCourse
 
-## Node JS
+### Node JS
 - YouTube
   - Traversy Media
   - Learn Coding
@@ -223,24 +223,24 @@
   - The Complete 2020 web development bootcamp: Angela Yu
   - Complete Next.js with React & Node : Flip Jerga
 
-## NPM
+### NPM
 - YouTube
   - Traversy Media
 
-## Nuxt
+### Nuxt
 - YouTube
   - Traversy Media
 
-## Next.js
+### Next.js
 - Udemy
   - Complete Next.js with React & Node : Flip Jerga
 
-## Object Oriented Programming
+### Object Oriented Programming
 - YouTube
   - Code With Mosh
   - Traversy
 
-## Photoshop
+### Photoshop
 - Faradars
 - YouTube
   - Nobu Design
@@ -248,12 +248,12 @@
 - Udemy
   - Practical web design & development: 7 courses in 1
 
-## Python
+### Python
 - Faradars
 - YouTube
   - Traversy Media
 
-## React JS
+### React JS
 - YouTube
   - Traversy Media
   - Code With Mosh
@@ -265,63 +265,63 @@
   - Essential Training: Eve Porcello
   - Complete Next.js with React & Node : Flip Jerga
 
-## React Native
+### React Native
 - YouTube
   - Traversy Media
 
-## Redux
+### Redux
 - YouTube
   - Code With Mosh
   - Academind
 
-## Regular Expressions
+### Regular Expressions
 - Jadi
 
-## Sass
+### Sass
 - YouTube
   - Traversy Media
 
-## Scribble js
+### Scribble js
 - YouTube
   - Coding Tech
 
-## Semantic UI CSS
+### Semantic UI CSS
 - YouTube
   - Traversy Media
 
-## Semantic Tags
+### Semantic Tags
 - YouTube
   - Google Chrome Developers
 
-## Skeleton CSS
+### Skeleton CSS
 - YouTube
   - Traversy Media
 
-## SQL
+### SQL
 - Sourcebaran
 - YouTube
   - Code With Mosh
   - Traversy Media
 
-## SSH
+### SSH
 - YouTube
   - Traversy Media
 
-## Strapi.js
+### Strapi.js
 - YouTube
   - Traversy Media
 
-## Telegram bot
+### Telegram bot
 - Udemy
     
-## TMUX
+### TMUX
 - Jadi
 
-## Trie
+### Trie
 - YouTube
   - Lukas Vyhnalek
 
-## UI & UX design Concepts
+### UI & UX design Concepts
 - YouTube
   - Jesse Showalter
   - The Futur
@@ -330,22 +330,22 @@
   - Udemy
     - The Complete 2020 web development bootcamp: Angela Yu
 
-## Vue JS
+### Vue JS
 - YouTube
   - Traversy Media
 
-## Vuex
+### Vuex
 - YouTube
   - Traversy Media
 
-## W3 CSS
+### W3 CSS
 - YouTube
   - Traversy Media
 
-## Waterfall Methodology
+### Waterfall Methodology
 - YouTube
   - WebDevelopment Tutorial
 
-## Web Scraping
+### Web Scraping
 - Packt
 - Jadi
