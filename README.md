@@ -89,7 +89,7 @@
   - The Complete 2020 web development bootcamp: Angela Yu
 - Turbo Front (Part Company)
 
-### DataBase(theroy)
+### DataBase(theory)
 - Maktabkhooneh
   - Irani
 - Udemy
