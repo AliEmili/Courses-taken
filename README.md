@@ -87,6 +87,7 @@
   - Practical web design & development: 7 courses in 1
   - The Complete front-end web development course
   - The Complete 2020 web development bootcamp: Angela Yu
+- Turbo Front (Part Company)
 
 ### DataBase(theroy)
 - Maktabkhooneh
@@ -148,6 +149,7 @@
   - Practical web design & development: 7 courses in 1
   - The Complete front-end web development course
   - The Complete 2020 web development bootcamp: Angela Yu
+- Turbo Front (Part Company)
 
 ### Linux
 - YouTube
@@ -280,6 +282,7 @@
 ### Sass
 - YouTube
   - Traversy Media
+- Turbo Front (Part Company)
 
 ### Scribble js
 - YouTube
