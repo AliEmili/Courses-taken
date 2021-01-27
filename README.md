@@ -236,11 +236,13 @@
 ### Next.js
 - Udemy
   - Complete Next.js with React & Node : Flip Jerga
+- Youtube
+  - Traversy Media
 
 ### Object Oriented Programming
 - YouTube
   - Code With Mosh
-  - Traversy
+  - Traversy Media
 
 ### Photoshop
 - Faradars
@@ -257,7 +259,7 @@
 
 ### React JS
 - YouTube
-  - Traversy Media
+  - Traversy Media (two crash courses)
   - Code With Mosh
   - Academind
     - ReactJs Basics
@@ -348,6 +350,10 @@
 ### Waterfall Methodology
 - YouTube
   - WebDevelopment Tutorial
+
+### Webpack
+- YouTube
+  - Academind
 
 ### Web Scraping
 - Packt
