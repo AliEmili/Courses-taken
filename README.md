@@ -238,6 +238,7 @@
   - Complete Next.js with React & Node : Flip Jerga
 - Youtube
   - Traversy Media
+  - Lee Robinson : Mastering Nextjs Playlist
 
 ### Object Oriented Programming
 - YouTube
