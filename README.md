@@ -245,6 +245,10 @@
   - Code With Mosh
   - Traversy Media
 
+### Php
+- YouTube
+  - FreeCodeCamp
+
 ### Photoshop
 - Faradars
 - YouTube
@@ -308,6 +312,7 @@
 - YouTube
   - Code With Mosh
   - Traversy Media
+  - FreeCodeCamp
 
 ### SSH
 - YouTube
