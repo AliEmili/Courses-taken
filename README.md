@@ -344,6 +344,7 @@
 ### Vue JS
 - YouTube
   - Traversy Media
+  - FreeCodeCamp
 
 ### Vuex
 - YouTube
