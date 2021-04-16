@@ -112,6 +112,10 @@
 - YouTube
   - Traversy Media
 
+## Gatsby.js
+- YouTube
+  - FreeCodeCamp
+
 ### Git
 - YouTube
   - Traversy Media
