@@ -98,6 +98,10 @@
 ### Design Patterns
 - YouTube
   - Code With Mosh
+  
+### DevOps
+- Udemy:
+  - DevOps Fundamental
 
 ### EJS Engine
 - Udemy: The Complete 2020 web development bootcamp: Angela Yu
