@@ -100,11 +100,12 @@
   - Code With Mosh
   
 ## DevOps
-- Udemy:
+- Udemy
   - DevOps Fundamental
 
 ## EJS Engine
-- Udemy: The Complete 2020 web development bootcamp: Angela Yu
+- Udemy
+  - The Complete 2020 web development bootcamp: Angela Yu
 
 ## Express JS
 - YouTube
@@ -204,7 +205,7 @@
   - The Complete front-end web development course
   - The Complete 2020 web development bootcamp: Angela Yu
 - Aparat
-    - rezaei
+  - rezaei
 
 ## Materialize
 - YouTube
@@ -217,7 +218,6 @@
 ## MongoDB & Mongoose
 - Udemy
   - The Complete 2020 web development bootcamp: Angela Yu
-
 
 ## Network
 - YouTube
@@ -346,13 +346,17 @@
   - The Futur
   - UX Mastery
   - Awwwards
-  - Udemy
-    - The Complete 2020 web development bootcamp: Angela Yu
+- Udemy
+  - The Complete 2020 web development bootcamp: Angela Yu
 
-## Vue JS
+## Vue 2
 - YouTube
   - Traversy Media
   - FreeCodeCamp
+  
+## Vue 3
+- Udemy
+  - The Complete Guide (w Router, Vuex, Composition API)
 
 ## Vuex
 - YouTube
