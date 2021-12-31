@@ -164,6 +164,10 @@
 - YouTube
   - Jadi
 
+## LoopbackJs
+- Udemy
+  - The Complete Full-Stack JavaScript Course : Joseph Delgadillo
+
 ## Instagram Growth
 - Udemy
 
@@ -211,6 +215,10 @@
 - YouTube
   - Traversy Media
 
+## Material UI
+- Udemy
+  - The Complete Full-Stack JavaScript Course : Joseph Delgadillo
+
 ## Minimax Algorithm
 - YouTube
   - Gate Smashers
@@ -232,6 +240,8 @@
 - Udemy
   - The Complete 2020 web development bootcamp: Angela Yu
   - Complete Next.js with React & Node : Flip Jerga
+  - The Complete Full-Stack JavaScript Course : Joseph Delgadillo
+- FreeCodeCamp
 
 ## NPM
 - YouTube
@@ -281,6 +291,7 @@
   - The Complete 2020 web development bootcamp: Angela Yu
   - Essential Training: Eve Porcello
   - Complete Next.js with React & Node : Flip Jerga
+  - The Complete Full-Stack JavaScript Course : Joseph Delgadillo
 
 ## React Native
 - YouTube
@@ -290,6 +301,8 @@
 - YouTube
   - Code With Mosh
   - Academind
+- Udemy
+  - The Complete Full-Stack JavaScript Course : Joseph Delgadillo
 
 ## Regular Expressions
 - Jadi
@@ -373,6 +386,10 @@
 ## Webpack
 - YouTube
   - Academind
+
+## Websocket
+- Udemy
+  - The Complete Full-Stack JavaScript Course : Joseph Delgadillo
 
 ## Web Scraping
 - Packt
