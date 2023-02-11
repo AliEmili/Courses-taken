@@ -89,6 +89,10 @@
   - The Complete 2020 web development bootcamp: Angela Yu
 - Turbo Front (Part Company)
 
+## CMD
+- Frontend Masters
+  - Full Stack for Front-End Engineers
+
 ## DataBase(theory)
 - Maktabkhooneh
   - Irani
@@ -230,6 +234,10 @@
 ## Network
 - YouTube
   - CrashCourse
+  
+## Nginx
+- Frontend Masters
+  - Full Stack for Front-End Engineers
 
 ## Node JS
 - YouTube
