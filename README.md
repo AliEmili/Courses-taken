@@ -238,6 +238,7 @@
 ## Nginx
 - Frontend Masters
   - Full Stack for Front-End Engineers
+- Udemy - NGINX Fundamentals High Performance Servers from Scratch 2021-4/02
 
 ## Node JS
 - YouTube
