@@ -132,6 +132,10 @@
   - Jadi
 - Udemy
   - The Complete 2020 web development bootcamp: Angela Yu
+ 
+## gRPC
+- YouTube
+  - Hussein Nasser
 
 ## Greedy Algorithm
 - YouTube
