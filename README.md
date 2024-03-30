@@ -325,6 +325,10 @@
   - Traversy Media
 - Turbo Front (Part Company)
 
+## Software Architecture
+- Udemy
+  - Software Architecture Technology Of Large Scale Systems 2022-6
+
 ## Scribble js
 - YouTube
   - Coding Tech
