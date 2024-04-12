@@ -305,6 +305,8 @@
   - Essential Training: Eve Porcello
   - Complete Next.js with React & Node : Flip Jerga
   - The Complete Full-Stack JavaScript Course : Joseph Delgadillo
+- FrontEnd Masters
+  - A Tour of JavaScript & React Patterns 2022-8
 
 ## React Native
 - YouTube
